@@ -137,6 +137,19 @@ textarea {
   padding-bottom: 1em;
 }
 
+#infoname {
+  font-size: 1.3em;
+  margin: 0.83em 0px;
+}
+
+#infoname .infokod, #infoname .infonazov {
+	font-weight: bold;
+}
+
+#infoname .info-userid {
+	font-size: 80%;
+}
+
 #infoaction {
   float: right;
 }
